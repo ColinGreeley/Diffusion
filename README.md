@@ -14,3 +14,5 @@ Starter code for the diffusion algorithm was taken from https://keras.io/example
 
 # Samples
 
+![Generated Samples 64px 1](./figures/gen_images64.jpg)
+![Generated Samples 256px 1](./figures/gen_images256.jpg)
